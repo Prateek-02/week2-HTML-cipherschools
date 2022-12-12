@@ -1,0 +1,11 @@
+div#container ul.my-songs li{
+    color: yellow;
+    background-color: black;
+}
+
+.fav{
+    color: blueviolet;
+    background-color: brown;
+}
+/* how to calculate specifity */
+/* 0, 1, 1, 3 */
